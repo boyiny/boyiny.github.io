@@ -2,7 +2,7 @@
 title: "TechBuddies: Engaging Students to Teach Retirees about Technology"
 collection: publications
 permalink: /publication/neussl2019techbuddies
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: May 2019
 venue: 'CHI EA'
 paperurl: 'https://doi.org/10.1145/3290607.3309694'
