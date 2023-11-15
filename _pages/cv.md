@@ -22,7 +22,6 @@ Education
   * Frist Class
 
 
-
 Academic Work experience
 ======
 * **Tutor of HCI for AI Systems Design course**: 07/2023 - Present
@@ -42,31 +41,15 @@ Selected Publications
 6. Yang, B., Jiang P., and Kristensson, P. O., 2023. ImageTalk: A Multimodal AAC Text Generation System Driven by Image Recognition and Nature Language Generation. (Manuscript submitted for publication)
 
 5. Yang, B. and Kristensson, P. O., 2023. Designing, Developing, and Evaluating AI-driven Text Entry Systems for Augmentative and Alternative Communication Users and Researchers. In 25th International Conference on Mobile Human-Computer Interaction (MobileHCI’23 Companion), September 2023
-<ul>{% for post in site.publications %}
-    {% include yang2023designing.pdf %}
-{% endfor %}</ul>
 
 4. Yang, B. and Kristensson,P. O., 2023, Imperfect Surrogate Users: Understanding Performance Implications of Augmentative and Alternative Communication Systems through Bounded Rationality, Human Error, and Interruption Modeling. MobileHCI 2023: The 25th International Conference on Mobile Human-Computer Interaction, September 2023
-[download](<ul>{% for post in site.publications %}
-    {% include yang2023imperfect.pdf %}
-{% endfor %}</ul>)
 
 3. Yang, B. and Kristensson, P. O., 2023, A Demonstration of a Tinkerable Augmentative and Alternative Communication Keyboard. IUI 2023: Companion Proceedings of the 28th International Conference on Intelligent User Interface, March 2023
-[download](<ul>{% for post in site.publications %}
-    {% include yang2023ademo.pdf %}
-{% endfor %}</ul>)
-
 
 2. Yang, B. and Kristensson, P. O., 2023, Tinkerable Augmentative and Alternative Communication for Users and Researchers. In Design for Sustainable Inclusion, Joy Goodman-Deane, Hua Dong, Ann Heylighen, Jonathan Lazar, and John Clarkson (Eds.). Springer International Publishing, March 2023
-[download](<ul>{% for post in site.publications %}
-    {% include yang2023tinkerable.pdf %}
-{% endfor %}</ul>)
-
 
 1. Shen, S., Yang, B., Dudley, J. J., and Kristensson, P. O., 2022, Kwickchat: A Multi-Turn Dialogue System for AAC Using Context-Aware Sentence Generation by Bag-of-Keywords. IUI 2022: The 27th International Conference on Intelligent User Interfaces, March 2022
-[download](<ul>{% for post in site.publications %}
-    {% include shen2022kwickchat.pdf %}
-{% endfor %}</ul>)
+
 
 Fellowship
 ======
