@@ -26,13 +26,13 @@ Academic Work experience
 ======
 * **Tutor of HCI for AI Systems Design course**: 07/2023 - Present
   * Cambridge Advance Online
-  * Duties included: Supervise numerical AI system design tasks for around 20 learners per term, including senior product managers/UX designers
-  * Skills: automated systems design, risk evaluation
+  * Duties included: Supervise numerical AI system design tasks for around 20 learners per term, including senior product managers/UX designers.
+  * Skills: automated systems design, risk evaluation.
 
 * **Supervisor of Further Human Computer Interaction**: 10/2021 - 10/2022
   * University of Cambridge
-  * Duties included: Supervised coursework covering design theory and methods for around 10 students per term, and received great feedback from students
-  * Skills: qualitative analysis, quantitative analysis, design theory
+  * Duties included: Supervised coursework covering design theory and methods for around 10 students per term, and received great feedback from students.
+  * Skills: qualitative analysis, quantitative analysis, design theory.
   
 
 Selected Publications
@@ -58,4 +58,4 @@ Fellowship
 Professional Service
 ======
 * Reviewer, CHI, 2023-2024
-* Reviewer,ChineseCHI, 2023-2024
+* Reviewer, ChineseCHI, 2023-2024
