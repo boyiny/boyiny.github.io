@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a PhD student in the [Intelligent Interactive Systems](https://www-edc.eng.cam.ac.uk/research/intelligent-interactive-systems) group at the [University of Cambridge](https://www.cam.ac.uk/), under the supervision of [Prof. Per Ola Kristensson](https://pokristensson.com/). My research focuses on human-AI interaction theory and text entry systems. Specifically, I am interested in human-AI cooperation and AI for accessibility. 
+Hi, I am a PhD student in the [Intelligent Interactive Systems Group](https://www-edc.eng.cam.ac.uk/research/intelligent-interactive-systems) at the [University of Cambridge](https://www.cam.ac.uk/), under the supervision of [Prof. Per Ola Kristensson](https://pokristensson.com/). My research focuses on human-AI interaction theory and text entry systems. Specifically, I am interested in human-AI cooperation and AI for accessibility. 
 
 Prior to my PhD, I had my bachelor's degree in Computer Science from the University of Manchester and my master's degree in Human-Computer Interaction from UCL. 
 
