@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Touchless Haptic Feedback for VR Rhythm Games"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/georgiou2018touchless.md
+date: August 2018
+venue: 'IEEE VR'
+paperurl: 'http://boyiny.github.io/_publications/georgiou2018touchless.pdf'
+citation: 'O. Georgiou et al., "Touchless Haptic Feedback for VR Rhythm Games," 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Tuebingen/Reutlingen, Germany, 2018, pp. 553-554, doi: 10.1109/VR.2018.8446619.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
