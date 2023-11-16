@@ -5,8 +5,6 @@ permalink: /publication/yang2023tinkerable
 excerpt: ''
 date: March 2023
 venue: 'CWUAAT'
-paperurl: 'https://doi.org/10.1007/978-3-031-28528-8_15'
-citation: 'Yang, B., Kristensson, P.O. (2023). Tinkerable Augmentative and Alternative Communication for Users and Researchers. In: Goodman-Deane, J., Dong, H., Heylighen, A., Lazar, J., Clarkson, J. (eds) Design for Sustainable Inclusion. CWUAAT 2023. Springer, Cham.'
 ---
 
 
